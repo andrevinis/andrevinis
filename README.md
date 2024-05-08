@@ -3,7 +3,7 @@
 <div>
 <p>Futuro Designer</p> 
 
-<p>Atualmente cursando na Escola SENAI de Informática, Técnico em Multimídia e .</p>
+<p>Atualmente cursando na Escola SENAI de Informática, Técnico em Multimídia .</p>
 </div>
 
 <div>
