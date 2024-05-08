@@ -13,6 +13,7 @@
 
 <br>
 
-<a href="https://www.credly.com/badges/11fd2861-1107-4e62-97d4-7bb6343cec23/public_url" target="blank">
-    <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
-  </a> 
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+          
+</div>
