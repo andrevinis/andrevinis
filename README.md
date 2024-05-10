@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=clash+display&size=25&duration=3000&pause=1000&color=FFFAF0&random=false&width=435&lines=Ol%C3%A1+%2C+me+chamo+Andr%C3%A9+!;Seja+Bem-vindo+ao+meu+perfil+." alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=clash+display&size=25&duration=3000&pause=1000&color=FFFAF0&random=false&width=435&lines=Ol%C3%A1+%2C+me+chamo+Andr%C3%A9+!;Seja+Bem-vindo+ao+meu+perfil+." alt="Typing SVG](https://fontshare.com/fonts/clash-display)" /></a>
 
 <div>
 <p>Futuro Designer</p> 
