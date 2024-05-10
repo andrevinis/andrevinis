@@ -1,4 +1,4 @@
-<img https://fontshare.com/fonts/clash-display />
+https://readme-typing-svg.demolab.com/demo/
 
 <div>
 <p>Futuro Designer</p> 
