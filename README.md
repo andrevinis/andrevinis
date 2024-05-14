@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=clash+display&weight=900&size=26&duration=3000&pause=1000&color=AB89E9&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Andr%C3%A9;Seja+bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=clash+display&weight=900&size=26&duration=3000&pause=1000&color=7B87E9&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Andr%C3%A9;Seja+bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 <div>
+  
 <p>Futuro Designer</p> 
 
 <p>Atualmente cursando na Escola SENAI de Informática, Técnico em Multimídia .</p>
