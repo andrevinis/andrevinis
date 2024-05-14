@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=clash+display&weight=900&size=26&duration=3000&pause=1000&color=916DE9&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Andr%C3%A9;Seja+bem+vindo+ao+meu+perfil." alt="Typing SVG" /></a>
 
 <div>
 <p>Futuro Designer</p> 
